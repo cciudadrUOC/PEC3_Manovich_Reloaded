@@ -19,7 +19,7 @@ En este trabajo analizamos dos casos contemporáneos de hibridación que podría
 
 ---
 
-## Hibridación en "Sentimiento Rojiblanco" – Cromos con Realidad Aumentada
+## Hibridación en "Sentimiento Rojiblanco"
 
 La colección "Sentimiento Rojiblanco", lanzada por el Club Atlético de Madrid con motivo de su 120 aniversario, representa una innovadora forma de coleccionismo. A través de una app móvil, los usuarios pueden escanear los cromos físicos y acceder a contenido adicional en realidad aumentada: animaciones en 3D, vídeos históricos, goles emblemáticos y estadísticas de jugadores.
 
@@ -27,17 +27,15 @@ Este proyecto es un ejemplo claro de hibridación entre el objeto físico (los c
 
 Según Manovich, este tipo de productos representan cómo el software puede reconfigurar prácticas culturales tradicionales —como el coleccionismo deportivo— y transformarlas en experiencias multimedia inmersivas. Lo que antes era un objeto estático ahora es una interfaz expandida que activa narrativas visuales en tiempo real.
 
-### 📸 Imagen del caso:
-> *(Aquí puedes insertar una imagen del cromo escaneado con la RA activada)*  
-> `![Cromo RA](url-de-tu-imagen)`
+> ![Cromos Sentimiento Rojiblanco](https://raw.githubusercontent.com/cciudadrUOC/PEC3_Manovich_Reloaded/refs/heads/main/cartas.jfif)
 
 ### 🔗 Recursos:
-- [Sentimiento Rojiblanco – Amazon](https://www.amazon.es/Sentimiento-Rojiblanco-Con-box-figurine/dp/8894501183)
+
 - [Ejemplo en vídeo – YouTube](https://www.youtube.com/watch?v=ejemplo) *(sustituir con uno real si está disponible)*
 
 ---
 
-## Hibridación en "The Witcher 3: Wild Hunt" – Videojuego y Narrativa Transmedia
+## Hibridación en "The Witcher 3: Wild Hunt"
 
 "The Witcher 3: Wild Hunt", desarrollado por CD Projekt Red, es un videojuego de rol que retoma el universo literario del escritor Andrzej Sapkowski y lo expande a través de una experiencia inmersiva e interactiva. A su vez, su adaptación a serie de televisión por parte de Netflix demuestra el alcance transmedia del proyecto.
 
@@ -49,11 +47,6 @@ Manovich explicaría este fenómeno como un ejemplo del poder del software para 
 > *(Aquí puedes insertar una imagen del videojuego o de la serie)*  
 > `![The Witcher 3](url-de-tu-imagen)`
 
-### 🔗 Recursos:
-- [The Witcher 3 en Steam](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
-- [Tráiler cinematográfico – YouTube](https://www.youtube.com/watch?v=c0i88t0Kacs)
-- [Artículo: Juego vs. Serie](https://www.cinemascomics.com/asi-encaja-the-witcher-3-con-serie-netflix/)
-
 ---
 
 ## Conclusión
@@ -63,5 +56,11 @@ Los dos casos analizados muestran cómo el software actúa como fuerza integrado
 Desde lo local y lúdico hasta lo narrativo y global, ambos ejemplos ilustran cómo Manovich tenía razón: el software no solo toma el mando, también rediseña los lenguajes de la cultura contemporánea.
 
 ---
+## Bibliografía y Webgrafía
 
+- [Sentimiento Rojiblanco – Amazon](https://www.amazon.es/Sentimiento-Rojiblanco-Con-box-figurine/dp/8894501183)
+- [The Witcher 3 en Steam](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
+- [Tráiler cinematográfico – YouTube](https://www.youtube.com/watch?v=c0i88t0Kacs)
+- [Artículo: Juego vs. Serie](https://www.cinemascomics.com/asi-encaja-the-witcher-3-con-serie-netflix/)
+---
 **Licencia**: Este trabajo está publicado bajo una licencia Creative Commons CC BY-SA.
