@@ -45,7 +45,7 @@ Desde la perspectiva de Manovich, “The Witcher 3” es mucho más que una adap
 
 Además, el juego se caracteriza por una estética cinematográfica: sus escenarios, iluminación, encuadres, música y estructura narrativa están claramente inspirados en el lenguaje del cine épico y fantástico. Sin embargo, aquí el espectador se convierte en agente activo. La historia se moldea no solo por lo que ocurre, sino por cómo el jugador actúa. Esta fusión entre cine y juego genera una experiencia híbrida que mezcla la inmersión visual del cine con la interactividad del videojuego
 
-> ![The Witcher 3](https://github.com/cciudadrUOC/PEC3_Manovich_Reloaded/blob/main/5060052.jpg?raw=true)
+> ![The Witcher 3](https://raw.githubusercontent.com/cciudadrUOC/PEC3_Manovich_Reloaded/refs/heads/main/images.jfif)
 
 La posterior aparición de la serie de televisión en Netflix, inspirada en el universo del videojuego tanto como en las novelas, añade otra capa de complejidad al fenómeno. Aquí se da un ciclo de retroalimentación: el videojuego inspira elementos narrativos y visuales de la serie, y esta, a su vez, influye en cómo se percibe el mundo del juego. Se establece una red transmedia en la que el usuario puede consumir el universo de “The Witcher” a través de múltiples formatos, cada uno complementando al otro.
 
@@ -53,7 +53,8 @@ La posterior aparición de la serie de televisión en Netflix, inspirada en el u
 
 En este ecosistema cultural, el software se presenta como mediador clave entre medios, permitiendo la traducción, expansión y reconfiguración de contenidos. Como afirma Manovich, los nuevos medios no sustituyen a los antiguos, sino que los reinventan, y “The Witcher 3” lo demuestra: toma una narrativa literaria y la transforma en una experiencia interactiva que posteriormente se transforma en producto audiovisual. Todo ello responde a una lógica de modularidad, variabilidad e hibridación impulsada por el software.
 
-En definitiva, “The Witcher 3” encarna perfectamente el concepto de hibridación contemporánea en la era del software. Es literatura jugable, cine interactivo y experiencia emocional inmersiva. Un universo en expansión donde el usuario, el medio y la narrativa convergen en una experiencia única.
+En definitiva, "The Witcher 3" encarna perfectamente el concepto de hibridación contemporánea en la era del software. Es literatura jugable, cine interactivo y experiencia emocional inmersiva. Un universo en expansión donde el usuario, el medio y la narrativa convergen en una experiencia única.
+
 ---
 
 ## Conclusión
