@@ -1,9 +1,10 @@
 # PEC3_Manovich_Reloaded
+
 **Autor**: Carlos Javier Ciudad Ruiz  
 **Fecha**: 15 de mayo de 2025  
 **Asignatura**: Cultura Digital
 **Universidad**: UOC
-**Repositorio**: [https://github.com/cciudadrUOC/PEC3_Manovich_Reloaded]
+
 ---
 
 ## PEC3 · Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
@@ -35,6 +36,8 @@ Desde las “gafas de Manovich”, podríamos afirmar que esta colección repres
 
 En resumen, “Sentimiento Rojiblanco” demuestra cómo la hibridación, potenciada por el software, redefine incluso los formatos más tradicionales. Lo que antes era una actividad basada en el tacto, la nostalgia y el intercambio físico, ahora incorpora dimensiones virtuales que enriquecen la experiencia. Esta fusión de lo analógico con lo digital, de lo visual con lo interactivo, de lo individual con lo compartible, encarna perfectamente el tipo de fenómenos que Manovich defiende como signos de la cultura del software.
 
+Personalmente, aún siendo del Real Madrid, me parece una idea estupenda la de realizar tarjetas con realidad aumentada, y poder tener tus cromos no solamente en tarjeta papel, si no también en un futuro poder tener tu album digital.
+
 ---
 
 ## Hibridación en "The Witcher 3: Wild Hunt"
@@ -43,9 +46,9 @@ En resumen, “Sentimiento Rojiblanco” demuestra cómo la hibridación, potenc
 
 Desde la perspectiva de Manovich, “The Witcher 3” es mucho más que una adaptación: es un ejemplo de cómo el software permite reconfigurar formas narrativas lineales (como la novela) en experiencias interactivas, modulares y personalizadas. El jugador no solo “lee” la historia: la construye, la altera, toma decisiones morales, explora ramificaciones, modifica el destino de los personajes. Esto supone una ruptura radical con la lógica cerrada del relato tradicional y una de las principales aportaciones del software como nuevo medio cultural.
 
-Además, el juego se caracteriza por una estética cinematográfica: sus escenarios, iluminación, encuadres, música y estructura narrativa están claramente inspirados en el lenguaje del cine épico y fantástico. Sin embargo, aquí el espectador se convierte en agente activo. La historia se moldea no solo por lo que ocurre, sino por cómo el jugador actúa. Esta fusión entre cine y juego genera una experiencia híbrida que mezcla la inmersión visual del cine con la interactividad del videojuego
+Además, el juego se caracteriza por una estética cinematográfica: sus escenarios, iluminación, encuadres, música y estructura narrativa están claramente inspirados en el lenguaje del cine épico y fantástico. Sin embargo, aquí el espectador se convierte en agente activo. La historia se moldea no solo por lo que ocurre, sino por cómo el jugador actúa. Esta fusión entre cine y juego genera una experiencia híbrida que mezcla la inmersión visual del cine con la interactividad del videojuego. Y además, el juego es una pasada en general.
 
-> ![The Witcher 3](https://raw.githubusercontent.com/cciudadrUOC/PEC3_Manovich_Reloaded/refs/heads/main/images.jfif)
+> ![The Witcher 3](https://raw.githubusercontent.com/cciudadrUOC/PEC3_Manovich_Reloaded/refs/heads/main/ojKZ7l0T2M5egR9YHIjVhI0R.webp)
 
 La posterior aparición de la serie de televisión en Netflix, inspirada en el universo del videojuego tanto como en las novelas, añade otra capa de complejidad al fenómeno. Aquí se da un ciclo de retroalimentación: el videojuego inspira elementos narrativos y visuales de la serie, y esta, a su vez, influye en cómo se percibe el mundo del juego. Se establece una red transmedia en la que el usuario puede consumir el universo de “The Witcher” a través de múltiples formatos, cada uno complementando al otro.
 
@@ -66,9 +69,12 @@ Desde lo local y lúdico hasta lo narrativo y global, ambos ejemplos ilustran c�
 ---
 ## Bibliografía y Webgrafía
 
+- Manovich, L. (2013). *El software toma el mando*. Barcelona, Paidós, 2005.
+- [Gea, M (2022): "Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto"](https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing)
+- [Sentimiento Rojiblanco - Cromos con Realidad Aumentada](https://bstadium.es/otros-productos/album-interactivo-sentimiento-rojiblanco/)
 - [Sentimiento Rojiblanco – Amazon](https://www.amazon.es/Sentimiento-Rojiblanco-Con-box-figurine/dp/8894501183)
 - [The Witcher 3 en Steam](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)
-- [Tráiler cinematográfico – YouTube](https://www.youtube.com/watch?v=c0i88t0Kacs)
-- [Artículo: Juego vs. Serie](https://www.cinemascomics.com/asi-encaja-the-witcher-3-con-serie-netflix/)
+- [The Witcher: Tráiler cinematográfico – YouTube](https://www.youtube.com/watch?v=c0i88t0Kacs)
+- [The Witcher: Artículo: Juego vs. Serie](https://www.cinemascomics.com/asi-encaja-the-witcher-3-con-serie-netflix/)
 ---
-**Licencia**: Este trabajo está publicado bajo una licencia Creative Commons CC BY-SA.
+
