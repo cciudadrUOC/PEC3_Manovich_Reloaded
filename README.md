@@ -21,32 +21,39 @@ En este trabajo analizamos dos casos contemporáneos de hibridación que podría
 
 ## Hibridación en "Sentimiento Rojiblanco"
 
-La colección "Sentimiento Rojiblanco", lanzada por el Club Atlético de Madrid con motivo de su 120 aniversario, representa una innovadora forma de coleccionismo. A través de una app móvil, los usuarios pueden escanear los cromos físicos y acceder a contenido adicional en realidad aumentada: animaciones en 3D, vídeos históricos, goles emblemáticos y estadísticas de jugadores.
+La colección “Sentimiento Rojiblanco”, creada por el Club Atlético de Madrid para celebrar sus 120 años de historia, trasciende el concepto tradicional de cromo coleccionable al incorporar realidad aumentada (RA) mediante una app móvil. Lo que parece una simple lámina impresa se transforma, al ser escaneada con un smartphone o tablet, en una experiencia audiovisual interactiva: animaciones en 3D, vídeos de jugadas históricas, perfiles de jugadores o mensajes motivacionales emergen sobre el soporte físico. Esta integración convierte a la colección en un caso evidente de hibridación cultural, tal como la define Lev Manovich.
 
-Este proyecto es un ejemplo claro de hibridación entre el objeto físico (los cromos analógicos) y el medio digital interactivo (la RA y el software de visualización). El usuario ya no es un simple espectador: ahora participa activamente en la experiencia.
+Para Manovich, el software no solo actúa como herramienta de creación, sino como un medio cultural por derecho propio, capaz de reorganizar, transformar y reconfigurar medios tradicionales. En este caso, el cromo impreso —símbolo de una práctica analógica y nostálgica— se fusiona con elementos visuales y sonoros digitales a través de una interfaz móvil. El resultado no es una suma de partes, sino un nuevo tipo de objeto cultural, dinámico, expandido y participativo.
 
-Según Manovich, este tipo de productos representan cómo el software puede reconfigurar prácticas culturales tradicionales —como el coleccionismo deportivo— y transformarlas en experiencias multimedia inmersivas. Lo que antes era un objeto estático ahora es una interfaz expandida que activa narrativas visuales en tiempo real.
+Este tipo de hibridación es posible gracias a la lógica del software, que convierte la imagen estática en un marcador visual que activa un conjunto de instrucciones: animar, reproducir, desplegar información, generar una narrativa visual personalizada. La experiencia no solo implica observación, sino interacción: el niño o coleccionista se convierte en usuario, en parte activa del proceso de visualización, un principio clave en los nuevos medios post-digitales.
+
+Además, este ejemplo refleja cómo el software permite la personalización de la experiencia cultural. Dos usuarios pueden tener la misma colección física, pero sus experiencias serán diferentes en función del dispositivo, la app, la interacción y la evolución del contenido (actualizaciones, eventos especiales, etc.). La cultura del coleccionismo se convierte así en una experiencia expandida, lúdica y multiformato, que mezcla lo tangible con lo digital.
+
+Desde las “gafas de Manovich”, podríamos afirmar que esta colección representa una forma emergente de “objeto-software”, un híbrido entre el lenguaje gráfico del diseño impreso y la lógica de programación que rige la RA. Es un ejemplo del modo en que el software convierte lo ordinario en extraordinario, al dotar de vida y respuesta a un objeto pasivo.
 
 > ![Cromos Sentimiento Rojiblanco](https://raw.githubusercontent.com/cciudadrUOC/PEC3_Manovich_Reloaded/refs/heads/main/cartas.jfif)
 
-### 🔗 Recursos:
-
-- [Ejemplo en vídeo – YouTube](https://www.youtube.com/watch?v=ejemplo) *(sustituir con uno real si está disponible)*
+En resumen, “Sentimiento Rojiblanco” demuestra cómo la hibridación, potenciada por el software, redefine incluso los formatos más tradicionales. Lo que antes era una actividad basada en el tacto, la nostalgia y el intercambio físico, ahora incorpora dimensiones virtuales que enriquecen la experiencia. Esta fusión de lo analógico con lo digital, de lo visual con lo interactivo, de lo individual con lo compartible, encarna perfectamente el tipo de fenómenos que Manovich defiende como signos de la cultura del software.
 
 ---
 
 ## Hibridación en "The Witcher 3: Wild Hunt"
 
-"The Witcher 3: Wild Hunt", desarrollado por CD Projekt Red, es un videojuego de rol que retoma el universo literario del escritor Andrzej Sapkowski y lo expande a través de una experiencia inmersiva e interactiva. A su vez, su adaptación a serie de televisión por parte de Netflix demuestra el alcance transmedia del proyecto.
+“The Witcher 3: Wild Hunt” (2015), desarrollado por CD Projekt RED, es un videojuego de rol de mundo abierto que adapta y amplía las novelas del escritor polaco Andrzej Sapkowski. Pero su importancia cultural va más allá de su éxito comercial: representa una de las hibridaciones más sofisticadas entre literatura, videojuego y narrativa audiovisual. Este universo, originalmente literario, ha dado el salto al videojuego y, más tarde, a la televisión mediante una serie en Netflix, dando lugar a una narrativa transmedia que responde plenamente al modelo de hibridación cultural propuesto por Lev Manovich.
 
-Este caso representa una hibridación triple: literatura + videojuego + serie audiovisual. Cada medio aporta una forma distinta de interactuar con el universo narrativo de The Witcher, pero es el software del videojuego el que permite al jugador sumergirse plenamente en el mundo y tomar decisiones que alteran la historia.
+Desde la perspectiva de Manovich, “The Witcher 3” es mucho más que una adaptación: es un ejemplo de cómo el software permite reconfigurar formas narrativas lineales (como la novela) en experiencias interactivas, modulares y personalizadas. El jugador no solo “lee” la historia: la construye, la altera, toma decisiones morales, explora ramificaciones, modifica el destino de los personajes. Esto supone una ruptura radical con la lógica cerrada del relato tradicional y una de las principales aportaciones del software como nuevo medio cultural.
 
-Manovich explicaría este fenómeno como un ejemplo del poder del software para modular narrativas, simular realidades y generar nuevas estructuras culturales. El juego no solo adapta la literatura; la reinventa y la convierte en una experiencia personalizada. Y al ser llevado a la pantalla, los elementos visuales y narrativos del videojuego retroalimentan la serie.
+Además, el juego se caracteriza por una estética cinematográfica: sus escenarios, iluminación, encuadres, música y estructura narrativa están claramente inspirados en el lenguaje del cine épico y fantástico. Sin embargo, aquí el espectador se convierte en agente activo. La historia se moldea no solo por lo que ocurre, sino por cómo el jugador actúa. Esta fusión entre cine y juego genera una experiencia híbrida que mezcla la inmersión visual del cine con la interactividad del videojuego
 
-### 📸 Imagen del caso:
-> *(Aquí puedes insertar una imagen del videojuego o de la serie)*  
-> `![The Witcher 3](url-de-tu-imagen)`
+> ![The Witcher 3](https://github.com/cciudadrUOC/PEC3_Manovich_Reloaded/blob/main/5060052.jpg?raw=true)
 
+La posterior aparición de la serie de televisión en Netflix, inspirada en el universo del videojuego tanto como en las novelas, añade otra capa de complejidad al fenómeno. Aquí se da un ciclo de retroalimentación: el videojuego inspira elementos narrativos y visuales de la serie, y esta, a su vez, influye en cómo se percibe el mundo del juego. Se establece una red transmedia en la que el usuario puede consumir el universo de “The Witcher” a través de múltiples formatos, cada uno complementando al otro.
+
+> ![The Witcher 3](https://github.com/cciudadrUOC/PEC3_Manovich_Reloaded/blob/main/5060052.jpg?raw=true)
+
+En este ecosistema cultural, el software se presenta como mediador clave entre medios, permitiendo la traducción, expansión y reconfiguración de contenidos. Como afirma Manovich, los nuevos medios no sustituyen a los antiguos, sino que los reinventan, y “The Witcher 3” lo demuestra: toma una narrativa literaria y la transforma en una experiencia interactiva que posteriormente se transforma en producto audiovisual. Todo ello responde a una lógica de modularidad, variabilidad e hibridación impulsada por el software.
+
+En definitiva, “The Witcher 3” encarna perfectamente el concepto de hibridación contemporánea en la era del software. Es literatura jugable, cine interactivo y experiencia emocional inmersiva. Un universo en expansión donde el usuario, el medio y la narrativa convergen en una experiencia única.
 ---
 
 ## Conclusión
